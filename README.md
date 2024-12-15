@@ -21,8 +21,8 @@ Clone the repository:
 
 ## bash
 
-- git clone https://github.com/yourusername/dynamic-calendar.git
-- cd dynamic-calendar
+- git clone https://github.com/Mohitk786/dacoid-assignment.git
+- cd dacoid-assignment
 
 ## Install dependencies
 
@@ -37,12 +37,10 @@ npm run dev
 yarn dev
 
 ## Deployed Project Link
-
-https://dacoid-digital-assignment-taupe.vercel.app/
+https://dacoid-assignment-two.vercel.app/
 
 ## Usage
 
-- Navigate to different views (month, week, day) using the top navigation bar.
 - Click on a date to add an event.
 - Drag and drop events to reschedule.
 - Hover over events to see details or edit/delete options.
